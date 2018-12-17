@@ -72,7 +72,6 @@ public class ZEDSpatialMappingManager : MonoBehaviour
     {
         manager = ZEDManager.Instance;
         spatialMapping = new ZEDSpatialMapping(transform, sl.ZEDCamera.GetInstance(), manager);
-       
     }
 
     /// <summary>

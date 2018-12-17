@@ -267,7 +267,7 @@ public class ZEDManager : MonoBehaviour
     /// <summary>
     /// Rotation offset used to retrieve the tracking with a rotational offset.
     /// </summary>
-    private Quaternion rotationOffset;
+    private Quaternion rotationOffset; 
     /// <summary>
     /// Position offset used to retrieve the tracking with a positional offset. 
     /// </summary>
