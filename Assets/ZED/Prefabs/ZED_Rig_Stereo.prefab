@@ -106,7 +106,6 @@ GameObject:
   - component: {fileID: 4309805032874704}
   - component: {fileID: 114878768509821778}
   - component: {fileID: 114711245158774928}
-  - component: {fileID: 114315648993298670}
   m_Layer: 0
   m_Name: ZED_Rig_Stereo
   m_TagString: Untagged
@@ -564,19 +563,6 @@ MonoBehaviour:
   viewMode: 0
   numberPointLights: 0
   numberSpotLights: 0
---- !u!114 &114315648993298670
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1603769914748404}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7499a6647a9bf841a576f7a2dae1827, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cam1: {fileID: 20846656237544980}
-  cam2: {fileID: 20426257081025226}
 --- !u!114 &114495480594432558
 MonoBehaviour:
   m_ObjectHideFlags: 1
